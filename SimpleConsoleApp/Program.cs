@@ -6,7 +6,8 @@ namespace SimpleConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var a = 9;
+            Console.WriteLine($"Hello World! {a}");
         }
     }
 }
