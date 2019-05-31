@@ -8,7 +8,9 @@ namespace SimpleConsoleApp
         {
             var a = 9;
             var b = 33;
+            var c = 444;
             Console.WriteLine($"Hello World! {a + b}");
+            Console.WriteLine($"Hello World! {c}");
         }
     }
 }
